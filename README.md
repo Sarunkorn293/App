@@ -1,2 +1,2 @@
 # App
-Used by Expo
+Use with programs Expo
